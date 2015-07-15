@@ -1,0 +1,29 @@
+{
+  "name": "cnpjconsumer",
+  "version": "1.0.0",
+  "description": "Module that allows consult brazilian CNPJ portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheEld/cnpjconsumer.git"
+  },
+  "keywords": [
+    "cnpj"
+  ],
+  "author": "TheEld <dantemm13@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "gammautils": "0.0.67",
+    "iconv-lite": "^0.4.3",
+    "pdfkit": "^0.7.0",
+    "request": "^2.37.0"
+  },
+  "bugs": {
+    "url": "https://github.com/TheEld/cnpjconsumer/issues"
+  },
+  "homepage": "https://github.com/TheEld/cnpjconsumer"
+}
